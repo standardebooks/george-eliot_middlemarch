@@ -33,6 +33,10 @@ span[epub|type~="subtitle"]{
 }
 /* End all epigraphs */
 
+[epub|type~="epigraph"] [xml|lang]{
+	font-style: normal;
+}
+
 /* Epigraphs in section headers */
 section > header [epub|type~="epigraph"]{
 	display: inline-block;
