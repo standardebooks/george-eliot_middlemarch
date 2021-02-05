@@ -61,6 +61,9 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2003003087</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">21</meta>
 		<dc:description id="description">In the neighborhood of a rural English town in the 1830s, several men and women struggle with love, marriage and fortune.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;“&lt;a href="https://standardebooks.org/ebooks/george-eliot"&gt;George Eliot&lt;/a&gt;” was the pen-name of Mary Ann Evans, one of the greatest of English novelists of the Victorian era. Her long novel &lt;i&gt;Middlemarch&lt;/i&gt;, subtitled &lt;i&gt;A Study of Provincial Life&lt;/i&gt;, is generally considered to be her finest work.&lt;/p&gt;
