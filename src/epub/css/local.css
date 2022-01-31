@@ -19,9 +19,9 @@ body [xml|lang]{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 
 [epub|type~="epigraph"] cite i{
@@ -42,8 +42,8 @@ section > header [epub|type~="epigraph"]{
 }
 
 section > header [epub|type~="epigraph"] > p{
-	text-indent: 0;
 	margin-top: 0.5em;
+	text-indent: 0;
 }
 
 section > header [epub|type~="epigraph"] + *{
@@ -116,8 +116,8 @@ p span.i2{
 }
 
 p span.i4{
-	text-indent: -1em;
 	padding-left: 10em;
+	text-indent: -1em;
 }
 
 footer{
@@ -158,8 +158,8 @@ span.elision{
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
