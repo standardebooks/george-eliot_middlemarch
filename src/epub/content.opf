@@ -78,7 +78,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/145</dc:source>
 		<dc:source>https://archive.org/details/middlemarchstudy0000elio</dc:source>
-		<meta property="se:word-count">321437</meta>
+		<meta property="se:word-count">321438</meta>
 		<meta property="se:reading-ease.flesch">68.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Middlemarch</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-eliot_middlemarch</meta>
