@@ -42,7 +42,7 @@ section > header [epub|type~="epigraph"]{
 }
 
 section > header [epub|type~="epigraph"] > p{
-	margin-top: 0.5em;
+	margin-top: .5em;
 	text-indent: 0;
 }
 
