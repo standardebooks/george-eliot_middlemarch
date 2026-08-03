@@ -83,7 +83,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/145</dc:source>
 		<dc:source>https://archive.org/details/middlemarchstudy0000elio</dc:source>
-		<meta property="schema:wordCount">318045</meta>
+		<meta property="schema:wordCount">318048</meta>
 		<meta property="schema:educationalLevel">68.4</meta>
 		<link href="https://en.wikipedia.org/wiki/Middlemarch" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
