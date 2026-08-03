@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-eliot/middlemarch</dc:identifier>
 		<dc:date>2019-11-25T23:51:50Z</dc:date>
@@ -73,13 +73,13 @@
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">1</meta>
-		<dc:description id="description">In the neighborhood of a rural English town in the 1830s, several men and women struggle with love, marriage and fortune.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>In the neighborhood of a rural English town in the 1830s, several men and women struggle with love, marriage and fortune.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;“&lt;a href="https://standardebooks.org/ebooks/george-eliot"&gt;George Eliot&lt;/a&gt;” was the pen-name of Mary Ann Evans, one of the greatest of English novelists of the Victorian era. Her long novel &lt;i&gt;Middlemarch&lt;/i&gt;, subtitled &lt;i&gt;A Study of Provincial Life&lt;/i&gt;, is generally considered to be her finest work.&lt;/p&gt;
 			&lt;p&gt;Published in eight installments between 1871 and 1872, &lt;i&gt;Middlemarch&lt;/i&gt; tells the intertwined stories of a variety of people living in the vicinity of the (fictional) midlands town of Middlemarch during the early 1830s, the time of the great Reform Act. The novel is remarkable for its realistic treatment of situation, character and relationships and also demonstrates its author’s accurate knowledge of political issues, medicine, politics, and rural economy. Yet it also includes several touches of humor.&lt;/p&gt;
 			&lt;p&gt;The novel’s main characters include: Dorothea Brooke, a religiously inclined and very intelligent young woman who marries a much older man believing that she can assist him in his scholarly studies; Dr. Tertius Lydgate, a doctor who comes to Middlemarch to further his medical research and implement his ideas for treatment, but whose plans are thrown into disarray by an unwise marriage; Fred Vincy, an idle young man, the son of the town’s Mayor, who gets into a mire of debt; and several others.&lt;/p&gt;
 			&lt;p&gt;The initial reception of the novel by critics was mixed, with a number of unfavorable reviews, but its reputation has grown through time and &lt;i&gt;Middlemarch&lt;/i&gt; is now generally considered to be one of the best novels ever written in English.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/145</dc:source>
 		<dc:source>https://archive.org/details/middlemarchstudy0000elio</dc:source>
