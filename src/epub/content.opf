@@ -38,12 +38,12 @@
 		<meta property="file-as" refines="#fulltitle">Middlemarch: A Study of Provincial Life</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Didactic fiction</dc:subject>
-		<dc:subject id="subject-2">City and town life -- Fiction</dc:subject>
-		<dc:subject id="subject-3">England -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-2">City and town life--Fiction</dc:subject>
+		<dc:subject id="subject-3">England--Fiction</dc:subject>
+		<dc:subject id="subject-4">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-5">Love stories</dc:subject>
 		<dc:subject id="subject-6">Domestic fiction</dc:subject>
-		<dc:subject id="subject-7">Married people -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Married people--Fiction</dc:subject>
 		<dc:subject id="subject-8">Bildungsromans</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037714</meta>
